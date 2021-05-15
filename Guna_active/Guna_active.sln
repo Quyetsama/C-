@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guna_active", "Guna_active\Guna_active.csproj", "{D8416D48-01C7-4E12-BCA6-465BA69D0200}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8416D48-01C7-4E12-BCA6-465BA69D0200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8416D48-01C7-4E12-BCA6-465BA69D0200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8416D48-01C7-4E12-BCA6-465BA69D0200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8416D48-01C7-4E12-BCA6-465BA69D0200}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C48960BF-4663-4862-9F31-2614F0A2C30D}
+	EndGlobalSection
+EndGlobal

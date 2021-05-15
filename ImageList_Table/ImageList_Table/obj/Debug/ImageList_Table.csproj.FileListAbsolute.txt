@@ -1,0 +1,10 @@
+C:\Users\vanqu\source\repos\ImageList_Table\ImageList_Table\obj\Debug\ImageList_Table.Form1.resources
+C:\Users\vanqu\source\repos\ImageList_Table\ImageList_Table\obj\Debug\ImageList_Table.Properties.Resources.resources
+C:\Users\vanqu\source\repos\ImageList_Table\ImageList_Table\obj\Debug\ImageList_Table.csproj.GenerateResource.cache
+C:\Users\vanqu\source\repos\ImageList_Table\ImageList_Table\obj\Debug\ImageList_Table.csproj.CoreCompileInputs.cache
+C:\Users\vanqu\source\repos\ImageList_Table\ImageList_Table\bin\Debug\ImageList_Table.exe.config
+C:\Users\vanqu\source\repos\ImageList_Table\ImageList_Table\bin\Debug\ImageList_Table.exe
+C:\Users\vanqu\source\repos\ImageList_Table\ImageList_Table\bin\Debug\ImageList_Table.pdb
+C:\Users\vanqu\source\repos\ImageList_Table\ImageList_Table\obj\Debug\ImageList_Table.exe
+C:\Users\vanqu\source\repos\ImageList_Table\ImageList_Table\obj\Debug\ImageList_Table.pdb
+C:\Users\vanqu\source\repos\ImageList_Table\ImageList_Table\obj\Debug\ImageList_Table.csprojAssemblyReference.cache

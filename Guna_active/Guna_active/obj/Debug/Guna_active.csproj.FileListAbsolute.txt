@@ -1,0 +1,12 @@
+C:\Users\vanqu\source\repos\Guna_active\Guna_active\bin\Debug\Guna_active.exe.config
+C:\Users\vanqu\source\repos\Guna_active\Guna_active\bin\Debug\Guna_active.exe
+C:\Users\vanqu\source\repos\Guna_active\Guna_active\bin\Debug\Guna_active.pdb
+C:\Users\vanqu\source\repos\Guna_active\Guna_active\bin\Debug\Guna.UI2.dll
+C:\Users\vanqu\source\repos\Guna_active\Guna_active\obj\Debug\Guna_active.csprojAssemblyReference.cache
+C:\Users\vanqu\source\repos\Guna_active\Guna_active\obj\Debug\Guna_active.Form1.resources
+C:\Users\vanqu\source\repos\Guna_active\Guna_active\obj\Debug\Guna_active.Properties.Resources.resources
+C:\Users\vanqu\source\repos\Guna_active\Guna_active\obj\Debug\Guna_active.csproj.GenerateResource.cache
+C:\Users\vanqu\source\repos\Guna_active\Guna_active\obj\Debug\Guna_active.csproj.CoreCompileInputs.cache
+C:\Users\vanqu\source\repos\Guna_active\Guna_active\obj\Debug\Guna_active.csproj.CopyComplete
+C:\Users\vanqu\source\repos\Guna_active\Guna_active\obj\Debug\Guna_active.exe
+C:\Users\vanqu\source\repos\Guna_active\Guna_active\obj\Debug\Guna_active.pdb

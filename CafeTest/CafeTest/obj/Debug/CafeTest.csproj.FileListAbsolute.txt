@@ -1,0 +1,10 @@
+C:\Users\vanqu\source\repos\CafeTest\CafeTest\bin\Debug\CafeTest.exe.config
+C:\Users\vanqu\source\repos\CafeTest\CafeTest\bin\Debug\CafeTest.exe
+C:\Users\vanqu\source\repos\CafeTest\CafeTest\bin\Debug\CafeTest.pdb
+C:\Users\vanqu\source\repos\CafeTest\CafeTest\obj\Debug\CafeTest.Form1.resources
+C:\Users\vanqu\source\repos\CafeTest\CafeTest\obj\Debug\CafeTest.Properties.Resources.resources
+C:\Users\vanqu\source\repos\CafeTest\CafeTest\obj\Debug\CafeTest.csproj.GenerateResource.cache
+C:\Users\vanqu\source\repos\CafeTest\CafeTest\obj\Debug\CafeTest.csproj.CoreCompileInputs.cache
+C:\Users\vanqu\source\repos\CafeTest\CafeTest\obj\Debug\CafeTest.pdb
+C:\Users\vanqu\source\repos\CafeTest\CafeTest\obj\Debug\CafeTest.csprojAssemblyReference.cache
+C:\Users\vanqu\source\repos\CafeTest\CafeTest\obj\Debug\CafeTest.csproj.CopyComplete

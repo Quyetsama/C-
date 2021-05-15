@@ -1,0 +1,10 @@
+C:\Users\vanqu\source\repos\ConnectDB_Demo\ConnectDB_Demo\bin\Debug\ConnectDB_Demo.exe.config
+C:\Users\vanqu\source\repos\ConnectDB_Demo\ConnectDB_Demo\bin\Debug\ConnectDB_Demo.exe
+C:\Users\vanqu\source\repos\ConnectDB_Demo\ConnectDB_Demo\bin\Debug\ConnectDB_Demo.pdb
+C:\Users\vanqu\source\repos\ConnectDB_Demo\ConnectDB_Demo\obj\Debug\ConnectDB_Demo.csprojAssemblyReference.cache
+C:\Users\vanqu\source\repos\ConnectDB_Demo\ConnectDB_Demo\obj\Debug\ConnectDB_Demo.Form1.resources
+C:\Users\vanqu\source\repos\ConnectDB_Demo\ConnectDB_Demo\obj\Debug\ConnectDB_Demo.Properties.Resources.resources
+C:\Users\vanqu\source\repos\ConnectDB_Demo\ConnectDB_Demo\obj\Debug\ConnectDB_Demo.csproj.GenerateResource.cache
+C:\Users\vanqu\source\repos\ConnectDB_Demo\ConnectDB_Demo\obj\Debug\ConnectDB_Demo.csproj.CoreCompileInputs.cache
+C:\Users\vanqu\source\repos\ConnectDB_Demo\ConnectDB_Demo\obj\Debug\ConnectDB_Demo.exe
+C:\Users\vanqu\source\repos\ConnectDB_Demo\ConnectDB_Demo\obj\Debug\ConnectDB_Demo.pdb

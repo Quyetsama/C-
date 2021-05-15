@@ -1,0 +1,11 @@
+C:\Users\vanqu\source\repos\Demo_Login\Demo_Login\bin\Debug\Demo_Login.exe.config
+C:\Users\vanqu\source\repos\Demo_Login\Demo_Login\bin\Debug\Demo_Login.exe
+C:\Users\vanqu\source\repos\Demo_Login\Demo_Login\bin\Debug\Demo_Login.pdb
+C:\Users\vanqu\source\repos\Demo_Login\Demo_Login\obj\Debug\Demo_Login.csprojAssemblyReference.cache
+C:\Users\vanqu\source\repos\Demo_Login\Demo_Login\obj\Debug\Demo_Login.Form1.resources
+C:\Users\vanqu\source\repos\Demo_Login\Demo_Login\obj\Debug\Demo_Login.Properties.Resources.resources
+C:\Users\vanqu\source\repos\Demo_Login\Demo_Login\obj\Debug\Demo_Login.csproj.GenerateResource.cache
+C:\Users\vanqu\source\repos\Demo_Login\Demo_Login\obj\Debug\Demo_Login.csproj.CoreCompileInputs.cache
+C:\Users\vanqu\source\repos\Demo_Login\Demo_Login\obj\Debug\Demo_Login.exe
+C:\Users\vanqu\source\repos\Demo_Login\Demo_Login\obj\Debug\Demo_Login.pdb
+C:\Users\vanqu\source\repos\Demo_Login\Demo_Login\obj\Debug\Demo_Login.frm_Main.resources

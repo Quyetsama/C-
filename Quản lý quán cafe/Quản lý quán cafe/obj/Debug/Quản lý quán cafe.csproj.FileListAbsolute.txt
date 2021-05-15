@@ -1,0 +1,10 @@
+C:\Users\vanqu\source\repos\Quản lý quán cafe\Quản lý quán cafe\bin\Debug\Quản lý quán cafe.exe.config
+C:\Users\vanqu\source\repos\Quản lý quán cafe\Quản lý quán cafe\bin\Debug\Quản lý quán cafe.exe
+C:\Users\vanqu\source\repos\Quản lý quán cafe\Quản lý quán cafe\bin\Debug\Quản lý quán cafe.pdb
+C:\Users\vanqu\source\repos\Quản lý quán cafe\Quản lý quán cafe\obj\Debug\Quản_lý_quán_cafe.Main.resources
+C:\Users\vanqu\source\repos\Quản lý quán cafe\Quản lý quán cafe\obj\Debug\Quản_lý_quán_cafe.Properties.Resources.resources
+C:\Users\vanqu\source\repos\Quản lý quán cafe\Quản lý quán cafe\obj\Debug\Quản lý quán cafe.csproj.GenerateResource.cache
+C:\Users\vanqu\source\repos\Quản lý quán cafe\Quản lý quán cafe\obj\Debug\Quản lý quán cafe.csproj.CoreCompileInputs.cache
+C:\Users\vanqu\source\repos\Quản lý quán cafe\Quản lý quán cafe\obj\Debug\Quản lý quán cafe.exe
+C:\Users\vanqu\source\repos\Quản lý quán cafe\Quản lý quán cafe\obj\Debug\Quản lý quán cafe.pdb
+C:\Users\vanqu\source\repos\Quản lý quán cafe\Quản lý quán cafe\obj\Debug\Quản_lý_quán_cafe.QuanLyBanHang.resources

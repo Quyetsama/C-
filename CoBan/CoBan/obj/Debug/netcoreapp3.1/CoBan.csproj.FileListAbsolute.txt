@@ -1,0 +1,13 @@
+C:\Users\vanqu\source\repos\CoBan\CoBan\bin\Debug\netcoreapp3.1\CoBan.exe
+C:\Users\vanqu\source\repos\CoBan\CoBan\bin\Debug\netcoreapp3.1\CoBan.deps.json
+C:\Users\vanqu\source\repos\CoBan\CoBan\bin\Debug\netcoreapp3.1\CoBan.runtimeconfig.json
+C:\Users\vanqu\source\repos\CoBan\CoBan\bin\Debug\netcoreapp3.1\CoBan.runtimeconfig.dev.json
+C:\Users\vanqu\source\repos\CoBan\CoBan\bin\Debug\netcoreapp3.1\CoBan.dll
+C:\Users\vanqu\source\repos\CoBan\CoBan\bin\Debug\netcoreapp3.1\CoBan.pdb
+C:\Users\vanqu\source\repos\CoBan\CoBan\obj\Debug\netcoreapp3.1\CoBan.csprojAssemblyReference.cache
+C:\Users\vanqu\source\repos\CoBan\CoBan\obj\Debug\netcoreapp3.1\CoBan.AssemblyInfoInputs.cache
+C:\Users\vanqu\source\repos\CoBan\CoBan\obj\Debug\netcoreapp3.1\CoBan.AssemblyInfo.cs
+C:\Users\vanqu\source\repos\CoBan\CoBan\obj\Debug\netcoreapp3.1\CoBan.csproj.CoreCompileInputs.cache
+C:\Users\vanqu\source\repos\CoBan\CoBan\obj\Debug\netcoreapp3.1\CoBan.dll
+C:\Users\vanqu\source\repos\CoBan\CoBan\obj\Debug\netcoreapp3.1\CoBan.pdb
+C:\Users\vanqu\source\repos\CoBan\CoBan\obj\Debug\netcoreapp3.1\CoBan.genruntimeconfig.cache

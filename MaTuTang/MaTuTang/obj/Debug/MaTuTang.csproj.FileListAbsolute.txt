@@ -1,0 +1,10 @@
+C:\Users\vanqu\source\repos\MaTuTang\MaTuTang\bin\Debug\MaTuTang.exe.config
+C:\Users\vanqu\source\repos\MaTuTang\MaTuTang\bin\Debug\MaTuTang.exe
+C:\Users\vanqu\source\repos\MaTuTang\MaTuTang\bin\Debug\MaTuTang.pdb
+C:\Users\vanqu\source\repos\MaTuTang\MaTuTang\obj\Debug\MaTuTang.csprojAssemblyReference.cache
+C:\Users\vanqu\source\repos\MaTuTang\MaTuTang\obj\Debug\MaTuTang.Form1.resources
+C:\Users\vanqu\source\repos\MaTuTang\MaTuTang\obj\Debug\MaTuTang.Properties.Resources.resources
+C:\Users\vanqu\source\repos\MaTuTang\MaTuTang\obj\Debug\MaTuTang.csproj.GenerateResource.cache
+C:\Users\vanqu\source\repos\MaTuTang\MaTuTang\obj\Debug\MaTuTang.csproj.CoreCompileInputs.cache
+C:\Users\vanqu\source\repos\MaTuTang\MaTuTang\obj\Debug\MaTuTang.exe
+C:\Users\vanqu\source\repos\MaTuTang\MaTuTang\obj\Debug\MaTuTang.pdb

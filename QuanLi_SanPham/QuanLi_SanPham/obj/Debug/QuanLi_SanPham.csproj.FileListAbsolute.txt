@@ -1,0 +1,10 @@
+C:\Users\vanqu\source\repos\QuanLi_SanPham\QuanLi_SanPham\bin\Debug\QuanLi_SanPham.exe.config
+C:\Users\vanqu\source\repos\QuanLi_SanPham\QuanLi_SanPham\bin\Debug\QuanLi_SanPham.exe
+C:\Users\vanqu\source\repos\QuanLi_SanPham\QuanLi_SanPham\bin\Debug\QuanLi_SanPham.pdb
+C:\Users\vanqu\source\repos\QuanLi_SanPham\QuanLi_SanPham\obj\Debug\QuanLi_SanPham.csprojAssemblyReference.cache
+C:\Users\vanqu\source\repos\QuanLi_SanPham\QuanLi_SanPham\obj\Debug\QuanLi_SanPham.Form1.resources
+C:\Users\vanqu\source\repos\QuanLi_SanPham\QuanLi_SanPham\obj\Debug\QuanLi_SanPham.Properties.Resources.resources
+C:\Users\vanqu\source\repos\QuanLi_SanPham\QuanLi_SanPham\obj\Debug\QuanLi_SanPham.csproj.GenerateResource.cache
+C:\Users\vanqu\source\repos\QuanLi_SanPham\QuanLi_SanPham\obj\Debug\QuanLi_SanPham.csproj.CoreCompileInputs.cache
+C:\Users\vanqu\source\repos\QuanLi_SanPham\QuanLi_SanPham\obj\Debug\QuanLi_SanPham.exe
+C:\Users\vanqu\source\repos\QuanLi_SanPham\QuanLi_SanPham\obj\Debug\QuanLi_SanPham.pdb

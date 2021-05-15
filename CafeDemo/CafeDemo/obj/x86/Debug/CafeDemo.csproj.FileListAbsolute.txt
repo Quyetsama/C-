@@ -1,0 +1,17 @@
+C:\Users\vanqu\source\repos\CafeDemo\CafeDemo\bin\x86\Debug\CafeDemo.exe.config
+C:\Users\vanqu\source\repos\CafeDemo\CafeDemo\bin\x86\Debug\CafeDemo.exe
+C:\Users\vanqu\source\repos\CafeDemo\CafeDemo\bin\x86\Debug\CafeDemo.pdb
+C:\Users\vanqu\source\repos\CafeDemo\CafeDemo\obj\x86\Debug\CafeDemo.dialogShutDown.resources
+C:\Users\vanqu\source\repos\CafeDemo\CafeDemo\obj\x86\Debug\CafeDemo.Login.resources
+C:\Users\vanqu\source\repos\CafeDemo\CafeDemo\obj\x86\Debug\CafeDemo.Main.resources
+C:\Users\vanqu\source\repos\CafeDemo\CafeDemo\obj\x86\Debug\CafeDemo.Home.resources
+C:\Users\vanqu\source\repos\CafeDemo\CafeDemo\obj\x86\Debug\CafeDemo.Kmtv.resources
+C:\Users\vanqu\source\repos\CafeDemo\CafeDemo\obj\x86\Debug\CafeDemo.Properties.Resources.resources
+C:\Users\vanqu\source\repos\CafeDemo\CafeDemo\obj\x86\Debug\CafeDemo.Qlbh.resources
+C:\Users\vanqu\source\repos\CafeDemo\CafeDemo\obj\x86\Debug\CafeDemo.Qlmh.resources
+C:\Users\vanqu\source\repos\CafeDemo\CafeDemo\obj\x86\Debug\CafeDemo.Qltk.resources
+C:\Users\vanqu\source\repos\CafeDemo\CafeDemo\obj\x86\Debug\CafeDemo.Tct.resources
+C:\Users\vanqu\source\repos\CafeDemo\CafeDemo\obj\x86\Debug\CafeDemo.csproj.GenerateResource.cache
+C:\Users\vanqu\source\repos\CafeDemo\CafeDemo\obj\x86\Debug\CafeDemo.csproj.CoreCompileInputs.cache
+C:\Users\vanqu\source\repos\CafeDemo\CafeDemo\obj\x86\Debug\CafeDemo.exe
+C:\Users\vanqu\source\repos\CafeDemo\CafeDemo\obj\x86\Debug\CafeDemo.pdb

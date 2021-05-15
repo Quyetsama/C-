@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CafeDemo", "CafeDemo\CafeDemo.csproj", "{97E148C9-6D66-4C18-B771-12A55DBE02A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97E148C9-6D66-4C18-B771-12A55DBE02A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E148C9-6D66-4C18-B771-12A55DBE02A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E148C9-6D66-4C18-B771-12A55DBE02A9}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{97E148C9-6D66-4C18-B771-12A55DBE02A9}.Debug|x86.ActiveCfg = Debug|x86
+		{97E148C9-6D66-4C18-B771-12A55DBE02A9}.Debug|x86.Build.0 = Debug|x86
+		{97E148C9-6D66-4C18-B771-12A55DBE02A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E148C9-6D66-4C18-B771-12A55DBE02A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97E148C9-6D66-4C18-B771-12A55DBE02A9}.Release|x64.ActiveCfg = Release|Any CPU
+		{97E148C9-6D66-4C18-B771-12A55DBE02A9}.Release|x86.ActiveCfg = Release|x86
+		{97E148C9-6D66-4C18-B771-12A55DBE02A9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D209BE89-192E-4FD1-9A57-7F635AB9C51C}
+	EndGlobalSection
+EndGlobal

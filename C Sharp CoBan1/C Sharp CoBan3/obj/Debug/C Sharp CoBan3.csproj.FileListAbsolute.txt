@@ -1,0 +1,7 @@
+C:\Users\vanqu\source\repos\C Sharp CoBan1\C Sharp CoBan3\bin\Debug\C Sharp CoBan3.exe.config
+C:\Users\vanqu\source\repos\C Sharp CoBan1\C Sharp CoBan3\bin\Debug\C Sharp CoBan3.exe
+C:\Users\vanqu\source\repos\C Sharp CoBan1\C Sharp CoBan3\bin\Debug\C Sharp CoBan3.pdb
+C:\Users\vanqu\source\repos\C Sharp CoBan1\C Sharp CoBan3\obj\Debug\C Sharp CoBan3.csprojAssemblyReference.cache
+C:\Users\vanqu\source\repos\C Sharp CoBan1\C Sharp CoBan3\obj\Debug\C Sharp CoBan3.csproj.CoreCompileInputs.cache
+C:\Users\vanqu\source\repos\C Sharp CoBan1\C Sharp CoBan3\obj\Debug\C Sharp CoBan3.exe
+C:\Users\vanqu\source\repos\C Sharp CoBan1\C Sharp CoBan3\obj\Debug\C Sharp CoBan3.pdb

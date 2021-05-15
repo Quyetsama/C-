@@ -1,0 +1,6 @@
+C:\Users\vanqu\source\repos\C Sharp CoBan1\C Sharp CoBan1\bin\Debug\C Sharp CoBan1.exe.config
+C:\Users\vanqu\source\repos\C Sharp CoBan1\C Sharp CoBan1\bin\Debug\C Sharp CoBan1.exe
+C:\Users\vanqu\source\repos\C Sharp CoBan1\C Sharp CoBan1\bin\Debug\C Sharp CoBan1.pdb
+C:\Users\vanqu\source\repos\C Sharp CoBan1\C Sharp CoBan1\obj\Debug\C Sharp CoBan1.csproj.CoreCompileInputs.cache
+C:\Users\vanqu\source\repos\C Sharp CoBan1\C Sharp CoBan1\obj\Debug\C Sharp CoBan1.exe
+C:\Users\vanqu\source\repos\C Sharp CoBan1\C Sharp CoBan1\obj\Debug\C Sharp CoBan1.pdb
